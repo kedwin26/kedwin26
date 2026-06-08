@@ -13,7 +13,7 @@
 
 ## 📫 Let's Connect
 - 🌍 Based in Nairobi, Kenya | Open to remote & hybrid roles
-- 🤝 If you're building something that requires secure, scalable fullstack work — let's talk:
+- 🤝 If you're building something that requires secure, scalable fullstack work, let's talk:
 [LinkedIn](https://linkedin.com/in/edwin-gitundu-mern-dev)
 
 ---
