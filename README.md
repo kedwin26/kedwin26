@@ -7,7 +7,7 @@
   </h1>
 </div>
 
-- 🔭 Fullstack developer currently building modern web apps with the MERN stack — React frontends, Node/Express APIs, and MongoDB data layers.
+- 🔭 Fullstack developer currently building modern web apps with the MERN stack | React frontends, Node/Express APIs, and MongoDB data layers.
 - 🌱 Continuously deepening my React patterns and Node/Express backend skills.
 - 🚀 Dedicated to pushing the boundaries of technology.
 
