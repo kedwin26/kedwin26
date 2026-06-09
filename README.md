@@ -67,8 +67,8 @@
 |-----|------|
 |![Edwin's GitHub stats](https://github-readme-stats-roan-gamma-27.vercel.app/api?username=kedwin26&show_icons=true&hide=contribs,prs,issues_border=false&theme=shadow_green)|![Edwin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kedwin26&theme=shadow_green&hide_border=false)|
 
----
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---
