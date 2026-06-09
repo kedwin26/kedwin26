@@ -46,6 +46,7 @@
 - MySQL
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ---
 
 ## 📂 Featured Projects
@@ -58,6 +59,7 @@
 
 🔗 All repositories include detailed READMEs with setup instructions and architecture decisions.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ---
 
 ## 📊 GitHub Stats
