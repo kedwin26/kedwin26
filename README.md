@@ -40,7 +40,7 @@
 - Git 
 - Docker
   
-### 🗄️ Databases
+### Databases
 
 - MongoDB
 - MySQL
